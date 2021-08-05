@@ -34,6 +34,7 @@ export default {
         filter: contrast(9);
         background: var(--background);
         color: var(--blue-light);
+        transition: all 2s ease;
       }
     }
   `,
