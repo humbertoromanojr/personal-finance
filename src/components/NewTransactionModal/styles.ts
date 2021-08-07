@@ -58,31 +58,31 @@ export default {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0.5rem;
+  `,
 
-    button {
-      height: 4rem;
-      border: 1px solid #d7d7d7;
-      border-radius: 0.25rem;
+  RadioBox: styled.button`
+    height: 4rem;
+    border: 1px solid #d7d7d7;
+    border-radius: 0.25rem;
 
-      background: transparent;
+    background: transparent;
 
-      display: flex;
-      align-items: center;
-      justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-      transition: all 2s ease;
+    transition: all 2s ease;
 
-      &:hover {
-        border-color: var(--green);
-        transition: all 1s ease;
-      }
-
-      span {
-        display: inline-block;
-        margin: 0 0 0 1rem;
-        font-size: 1rem;
-        color: var(--text-title);
-      }
+    &:hover {
+      border-color: var(--green);
+      transition: all 1s ease;
     }
-  `
+
+    span {
+      display: inline-block;
+      margin: 0 0 0 1rem;
+      font-size: 1rem;
+      color: var(--text-title);
+    }
+  `,
 }
