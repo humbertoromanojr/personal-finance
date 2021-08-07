@@ -1,6 +1,10 @@
 /* eslint-disable import/no-anonymous-default-export */
 import styled from 'styled-components';
 
+interface RadioBoxProps {
+  isActive: boolean;
+}
+
 export default {
   Container: styled.form`
     h2 {
@@ -60,7 +64,7 @@ export default {
     gap: 0.5rem;
   `,
 
-  RadioBox: styled.button`
+  RadioBox: styled.button<RadioBoxProps>`
     height: 4rem;
     border: 1px solid #d7d7d7;
     border-radius: 0.25rem;
