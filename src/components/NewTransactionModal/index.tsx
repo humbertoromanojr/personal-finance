@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { FormEvent, useState } from 'react';
 import Modal from 'react-modal';
 
 import closeImage from '../../assets/close.svg';
@@ -12,7 +12,11 @@ interface NewTransactionModalProps {
 }
 
 export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionModalProps) {
-  const [type, setType] = useState('deposit')
+  const [type, setType] = useState('deposit');
+
+  function handleCreateTransaction(event: FormEvent) {
+    event.preventDefault();
+  }
 
   return (
     <Modal 
@@ -26,7 +30,7 @@ export function NewTransactionModal({ isOpen, onRequestClose }: NewTransactionMo
           <img src={closeImage} alt="Fechar modal" />
         </button>
 
-        <Styles.Container>
+        <Styles.Container onSubmit={handleCreateTransaction}>
           <h2>Cadastrar Transação</h2>
 
           <input placeholder="Título" />
