@@ -16,14 +16,14 @@ PERSONAL FINANCE
 ![Badge](https://img.shields.io/github/license/humbertoromanojr/personal-finance)
 ![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fpersonal-finance)
 
-## MOBILE
+## WEB
 - ⚛️ **React Js** — A JavaScript library for building user interfaces :sparkling_heart:
 
 -   [ReactJS](https://reactjs.org/)
 -   [TypeScript](https://www.typescriptlang.org/)
 -   [Styled Components](https://www.styled-components.com/)
 -   [Axios](https://github.com/axios/axios)
--   [React Icons](https://github.com/oblador/react-native-vector-icons)
+-   [React Icons](https://react-icons.github.io/react-icons/)
 
 
 
@@ -40,7 +40,7 @@ Start Bundle
 
 ## Demonstration
 <br>
-  <img src="https://i.ibb.co/fGp6FkM/personal-finance.png" width="100%" height="100%"alt="Personal Finance" border="0">
+  <img src="https://i.ibb.co/swCG3cg/personal-finance.png" width="900" height="700" alt="personal-finance" border="0">
 <br>
 
 
@@ -61,10 +61,10 @@ Email: astronomi@gmail.com <br />
 Made with :heart: and lots of animation by :guitar: JR Dev :guitar:
 
 
-###
 
 
-# Getting Started with Create React App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
