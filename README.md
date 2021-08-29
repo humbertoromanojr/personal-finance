@@ -8,7 +8,7 @@ PERSONAL FINANCE
 
 :guitar: JR Dev :guitar:
 
-![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=react&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
 ![Badge](https://img.shields.io/github/issues/humbertoromanojr/personal-finance?logo=visual-studio-code&style=plastic&logo=appveyor)
 ![Badge](https://img.shields.io/github/forks/humbertoromanojr/personal-finance)
@@ -40,7 +40,7 @@ Start Bundle
 
 ## Demonstration
 <br>
-  <img src="https://i.ibb.co/fGp6FkM/personal-finance.png" alt="Personal Finance" border="0">
+  <img src="https://i.ibb.co/fGp6FkM/personal-finance.png" width="100%" height="100%"alt="Personal Finance" border="0">
 <br>
 
 
