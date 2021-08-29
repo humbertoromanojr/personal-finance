@@ -5,7 +5,6 @@ import closeImage from '../../assets/close.svg';
 import incomeImage from '../../assets/income.svg';
 import outcomeImage from '../../assets/outcome.svg';
 import { TransactionsContext } from '../../contexts/TransactionsContext';
-import { api } from '../../services/api';
 import Styles from './styles';
 
 interface NewTransactionModalProps {
