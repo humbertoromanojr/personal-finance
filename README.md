@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/0c5jqdx/favicon.png" alt="favicon" width="200" height="200" border="0">
-<br>
+  <img src="https://i.ibb.co/0c5jqdx/favicon.png" alt="favicon" width="100" height="100" border="0">
 <br>
 PERSONAL FINANCE
 </h1>
@@ -9,13 +8,13 @@ PERSONAL FINANCE
 
 :guitar: JR Dev :guitar:
 
-![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACTNATIVE)
+![Badge](https://img.shields.io/static/v1?label=reactnative&message=FrameWork&color=blue&style=for-the-badge&logo=REACT)
 
-![Badge](https://img.shields.io/github/issues/humbertoromanojr/pokemons?logo=visual-studio-code&style=plastic&logo=appveyor)
-![Badge](https://img.shields.io/github/forks/humbertoromanojr/pokemons)
-![Badge](https://img.shields.io/github/stars/humbertoromanojr/pokemons)
-![Badge](https://img.shields.io/github/license/humbertoromanojr/pokemons)
-![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fpokemons)
+![Badge](https://img.shields.io/github/issues/humbertoromanojr/personal-finance?logo=visual-studio-code&style=plastic&logo=appveyor)
+![Badge](https://img.shields.io/github/forks/humbertoromanojr/personal-finance)
+![Badge](https://img.shields.io/github/stars/humbertoromanojr/personal-finance)
+![Badge](https://img.shields.io/github/license/humbertoromanojr/personal-finance)
+![Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fhumbertoromanojr%2Fpersonal-finance)
 
 ## MOBILE
 - ⚛️ **React Js** — A JavaScript library for building user interfaces :sparkling_heart:
@@ -24,23 +23,19 @@ PERSONAL FINANCE
 -   [TypeScript](https://www.typescriptlang.org/)
 -   [Styled Components](https://www.styled-components.com/)
 -   [Axios](https://github.com/axios/axios)
--   [React Native Icons](https://github.com/oblador/react-native-vector-icons)
--   [React Navigation v5](https://reactnavigation.org/)
+-   [React Icons](https://github.com/oblador/react-native-vector-icons)
 
 
 
 ## Instalation
 Copy project from repository
-`git clone https://github.com/humbertoromanojr/pokemons.git`
+`git clone https://github.com/humbertoromanojr/personal-finance`
 
 Install node_modules
 `npm or yarn install`
 
 Start Bundle
 `npm or yarn start`
-
-Start application
-`npm or yarn android or ios`
 
 
 ## Demonstration
