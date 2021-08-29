@@ -21,9 +21,9 @@ PERSONAL FINANCE
 
 -   [ReactJS](https://reactjs.org/)
 -   [TypeScript](https://www.typescriptlang.org/)
--   [Styled Components](https://www.styled-components.com/)
 -   [Axios](https://github.com/axios/axios)
--   [React Icons](https://react-icons.github.io/react-icons/)
+-   [Mirage JS](https://miragejs.com/)
+-   [React Modal](https://github.com/reactjs/react-modal)
 
 
 
@@ -40,7 +40,7 @@ Start Bundle
 
 ## Demonstration
 <br>
-  <img src="https://i.ibb.co/swCG3cg/personal-finance.png" width="900" height="700" alt="personal-finance" border="0">
+  <img src="https://i.ibb.co/swCG3cg/personal-finance.png" width="900" height="600" alt="personal-finance" border="0">
 <br>
 
 
